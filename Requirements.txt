@@ -1,0 +1,12 @@
+pandas
+jupyter
+aspose-cells
+JPype1
+xlrd
+openpyxl
+plotly
+Flask
+scikit-learn
+geopandas
+kaleido
+geopy
